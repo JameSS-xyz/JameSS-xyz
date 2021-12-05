@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm JameSS</h1>
+<h2 align="center">My website soon!</h2>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamess-xyz&label=Profile%20views&color=0e75b6&style=flat" alt="jamess-xyz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamess-xyz" alt="jamess-xyz" /></a> </p>
-
-- 🔭 I’m currently working on **my website**
 
 - 🌱 I’m currently learning **Java, PHP**
 
