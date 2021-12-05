@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jamess</h1>
+<h1 align="center">Hi 👋, I'm JameSS</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamess-xyz&label=Profile%20views&color=0e75b6&style=flat" alt="jamess-xyz" /> </p>
@@ -12,6 +12,8 @@
 - 💬 Ask me about **Bootstrap, C#, Python**
 
 - 📫 How to reach me **jamessdev08@outlook.com**
+
+- 🤖 Currently in **OmegaBot Support**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
