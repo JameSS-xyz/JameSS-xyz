@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jaku</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=james-xyz&label=Profile%20views&color=0e75b6&style=flat" alt="james-xyz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=notjaku&label=Profile%20views&color=0e75b6&style=flat" alt="notjaku" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=james-xyz" alt="james-xyz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notjaku" alt="notjaku" /></a> </p>
 
 - 🔭 I’m currently working on **my website**
 
